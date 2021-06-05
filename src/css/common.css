@@ -1,0 +1,80 @@
+*{
+	outline: none;
+}
+
+a{
+	color: #484f5b;
+}
+
+a:hover, a:focus{
+	color: #484f5b;
+	text-decoration: none;
+}
+
+html, body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    line-height: 1.428571429;
+    color: #333333;
+    background-color: #fff;
+	height: 100%;
+	background: #fafafa;
+}
+
+.header{
+	background: #fff;
+	padding: 20px;
+	box-shadow: 0px 1px 1px #ddd;
+	position: fixed;
+	width: 100%;
+    z-index: 222;
+}
+
+.header .logo h3{
+	margin: 0px;
+	font-size: 24px;
+}
+
+.header .logo h3 span{
+	color: #4c8fff;
+}
+
+.header .logo h3 .motto{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 13px;
+	letter-spacing: .5px;
+	color: #333;
+	display: inline;
+	margin-left: 10px;
+	padding-lefT: 10px;
+	border-left: 1px solid #ddd;
+}
+
+.header .menubar ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.header .menubar ul li{
+	float: left;
+	margin-right: 20px;
+	margin-top: 3px;
+}
+
+.header .menubar ul li:last-child{
+	margin-right: 0px;
+}
+
+.header .menubar ul li #mem1{
+	background: #f3f5f7;
+	padding: 10px 20px;
+	border-radius: 2px;
+	letter-spacing: .2px;
+	text-transform: uppercase;
+	font-size: 14px;
+	color: #4c8fff;
+	margin-left: -10px;
+	margin-right: -10px;
+}
