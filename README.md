@@ -3,7 +3,7 @@ This repository is used to brush up my HTML5, CSS3, Bootstrap and JavaScript ski
 Here You can see the pages https://sankar-kumar.github.io/amazingbin/
 
 
-#reminder for myself
+# reminder for myself
 
 Easy buddy..search more we can do this..
 In future develope the sample contact pages clearly.. need to change the home page also ASAP
